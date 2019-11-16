@@ -1,10 +1,10 @@
 title: Tristan Uren # your name (or website title) here
 logo: "/images/TempPortfolioLogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   A portfolio to showcase personal projects and those completed on Codecademy. 
   <br><br>
-  Second description 
-  <br><br>
+  
   
   
 theme: jekyll-theme-minimal
